@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程序员爱酸奶</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://chengliang666.github.io/"/>
+  <updated>2021-09-18T07:31:47.392Z</updated>
+  <id>https://chengliang666.github.io/</id>
+  
+  <author>
+    <name>程序员爱酸奶</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Promise：Promise.all、Promise.race、Promise.any的用法及区别</title>
+    <link href="https://chengliang666.github.io/20210918/Promise%EF%BC%9APromise.all%E3%80%81Promise.race%E3%80%81Promise.any%E7%9A%84%E7%94%A8%E6%B3%95%E5%8F%8A%E5%8C%BA%E5%88%AB.html"/>
+    <id>https://chengliang666.github.io/20210918/Promise：Promise.all、Promise.race、Promise.any的用法及区别.html</id>
+    <published>2021-09-18T07:15:23.701Z</published>
+    <updated>2021-09-18T07:31:47.392Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="异步编程" scheme="https://chengliang666.github.io/categories/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="异步编程" scheme="https://chengliang666.github.io/tags/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="Promise" scheme="https://chengliang666.github.io/tags/Promise/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git版本回退之 reset 和 revert</title>
+    <link href="https://chengliang666.github.io/20210909/Git%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80%E4%B9%8B%20reset%20%E5%92%8C%20revert.html"/>
+    <id>https://chengliang666.github.io/20210909/Git版本回退之 reset 和 revert.html</id>
+    <published>2021-09-09T08:08:00.474Z</published>
+    <updated>2021-09-09T08:31:41.086Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://chengliang666.github.io/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://chengliang666.github.io/tags/git/"/>
+    
+      <category term="reset" scheme="https://chengliang666.github.io/tags/reset/"/>
+    
+      <category term="revert" scheme="https://chengliang666.github.io/tags/revert/"/>
+    
+      <category term="版本回退" scheme="https://chengliang666.github.io/tags/%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node版本的升级和降级之node版本管理工具nvm</title>
+    <link href="https://chengliang666.github.io/20210811/Node%E7%89%88%E6%9C%AC%E7%9A%84%E5%8D%87%E7%BA%A7%E5%92%8C%E9%99%8D%E7%BA%A7%E4%B9%8Bnode%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7nvm.html"/>
+    <id>https://chengliang666.github.io/20210811/Node版本的升级和降级之node版本管理工具nvm.html</id>
+    <published>2021-08-11T03:44:10.308Z</published>
+    <updated>2021-08-11T03:52:42.201Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="node" scheme="https://chengliang666.github.io/categories/node/"/>
+    
+    
+      <category term="node" scheme="https://chengliang666.github.io/tags/node/"/>
+    
+      <category term="nvm" scheme="https://chengliang666.github.io/tags/nvm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二、Vue 页面渲染过程</title>
+    <link href="https://chengliang666.github.io/20210810/%E4%BA%8C%E3%80%81Vue%20%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B.html"/>
+    <id>https://chengliang666.github.io/20210810/二、Vue 页面渲染过程.html</id>
+    <published>2021-08-10T06:35:37.187Z</published>
+    <updated>2021-08-11T03:14:13.127Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="https://chengliang666.github.io/categories/vue/"/>
+    
+    
+      <category term="vue" scheme="https://chengliang666.github.io/tags/vue/"/>
+    
+      <category term="前端" scheme="https://chengliang666.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三、Vue 的一些语法样例</title>
+    <link href="https://chengliang666.github.io/20210810/%E4%B8%89%E3%80%81Vue%20%E7%9A%84%E4%B8%80%E4%BA%9B%E8%AF%AD%E6%B3%95%E6%A0%B7%E4%BE%8B.html"/>
+    <id>https://chengliang666.github.io/20210810/三、Vue 的一些语法样例.html</id>
+    <published>2021-08-10T06:35:37.183Z</published>
+    <updated>2021-08-11T03:15:34.297Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="https://chengliang666.github.io/categories/vue/"/>
+    
+    
+      <category term="vue" scheme="https://chengliang666.github.io/tags/vue/"/>
+    
+      <category term="前端" scheme="https://chengliang666.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一、Vue 世界初探</title>
+    <link href="https://chengliang666.github.io/20210810/%E4%B8%80%E3%80%81Vue%20%E4%B8%96%E7%95%8C%E5%88%9D%E6%8E%A2.html"/>
+    <id>https://chengliang666.github.io/20210810/一、Vue 世界初探.html</id>
+    <published>2021-08-10T06:35:37.170Z</published>
+    <updated>2021-08-11T03:20:48.684Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="https://chengliang666.github.io/categories/vue/"/>
+    
+    
+      <category term="vue" scheme="https://chengliang666.github.io/tags/vue/"/>
+    
+      <category term="前端" scheme="https://chengliang666.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
