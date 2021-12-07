@@ -1691,8 +1691,8 @@ pre .javascript .function {
   font-family: UKIJ Ekran;
 }
 .sidebar {
-  background: url("/images/sidebar-bg1.jpg") repeat !important;
-  background-image: url("/images/sidebar-bg1.jpg") repeat !important;
+  background: url("/Blog/images/sidebar-bg1.jpg") repeat !important;
+  background-image: url("/Blog/images/sidebar-bg1.jpg") repeat !important;
   background-size: cover !important;
   position: fixed !important;
   right: 0 !important;
@@ -1864,7 +1864,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff8fff;
+  background: #a28fb1;
 }
 .feed-link,
 .chat {
@@ -2044,7 +2044,7 @@ img:hover {
 .footer {
   font-size: 14px;
   color: #999;
-  background: url("/images/headbg.jpg") repeat !important;
+  background: url("/Blog/images/headbg.jpg") repeat !important;
 }
 .footer img {
   border: none;
@@ -2470,7 +2470,7 @@ hr {
   margin-top: 80px;
 }
 .header {
-  background: url("/images/headbg.jpg") repeat !important;
+  background: url("/Blog/images/headbg.jpg") repeat !important;
 }
 .header-inner {
   padding: 20px 0;
@@ -2796,7 +2796,7 @@ hr {
 .footer {
   margin-top: 80px;
   padding: 10px 0;
-  background: url("/images/headbg.jpg") repeat !important;
+  background: url("/Blog/images/headbg.jpg") repeat !important;
   color: #666;
 }
 .footer-inner {
